@@ -169,6 +169,7 @@ dependencies:
       - pyyaml==6.0.2
       - pyzmq==25.0.2
       - regex==2023.5.5
+      - scikit-image==0.25.2
       - scikit-learn==1.2.2
       - scipy==1.10.1
       - segment-anything==1.0
