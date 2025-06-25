@@ -196,3 +196,4 @@ dependencies:
       - classifier_free_guidance_pytorch
       - opencv-contrib-python==4.6.0.66
       - git+https://github.com/openai/CLIP.git
+      - git+https://github.com/Healthcare-Robotics/stretch_remote.git
