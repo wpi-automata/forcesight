@@ -1,4 +1,4 @@
-name: forcesight_test
+name: forcesight
 channels:
   - pytorch
   - nvidia
